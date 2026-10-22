@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "example.aternos.me",
-    "port": 92591,
+    "port": 75375,
     "version": "1.21.1"
   },
   "position": {
@@ -40,7 +40,7 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
